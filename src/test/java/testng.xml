@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite pruebas de regresión" verbose="1" >
+    <test name="Casos de prueba" >
+        <classes>
+            <class name="tests.Tests" />
+            <class name="tests.Tests2" />
+            <class name="tests.Tests3" />
+            <class name="tests.Tests4" />
+            <class name="tests.Tests5" />
+            <class name="tests.Tests6" />
+            <class name="tests.Tests7" />
+            <class name="tests.Tests8" />
+        </classes>
+    </test>
+</suite>

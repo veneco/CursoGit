@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-27T19:00:07Z" name="Suite pruebas de regresión" finished-at="2022-07-27T19:01:10Z" duration-ms="63277">
+    <groups>
+    </groups>
+    <test started-at="2022-07-27T19:00:07Z" name="Casos de prueba" finished-at="2022-07-27T19:01:10Z" duration-ms="63277">
+      <class name="tests.Tests3">
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.Tests3@cc43f62]" started-at="2022-07-27T19:00:28Z" name="preTests" finished-at="2022-07-27T19:00:30Z" duration-ms="1385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP002_Login_Exitoso()[pri:0, instance:tests.Tests3@cc43f62]" started-at="2022-07-27T19:00:30Z" name="CP002_Login_Exitoso" finished-at="2022-07-27T19:00:35Z" duration-ms="5670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP002_Login_Exitoso -->
+      </class> <!-- tests.Tests3 -->
+      <class name="tests.Tests2">
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.Tests2@2cb4893b]" started-at="2022-07-27T19:00:19Z" name="preTests" finished-at="2022-07-27T19:00:21Z" duration-ms="1951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP003_Agregar_Direccion()[pri:0, instance:tests.Tests2@2cb4893b]" started-at="2022-07-27T19:00:21Z" name="CP003_Agregar_Direccion" finished-at="2022-07-27T19:00:28Z" duration-ms="6890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP003_Agregar_Direccion -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.Tests2@2cb4893b]" started-at="2022-07-27T19:00:28Z" name="posEjecucion" finished-at="2022-07-27T19:00:28Z" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+      </class> <!-- tests.Tests2 -->
+      <class name="tests.Tests7">
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.Tests7@413d1baf]" started-at="2022-07-27T19:00:53Z" name="preTests" finished-at="2022-07-27T19:00:54Z" duration-ms="1181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP007_Anadir_Carrito()[pri:0, instance:tests.Tests7@413d1baf]" started-at="2022-07-27T19:00:54Z" name="CP007_Anadir_Carrito" finished-at="2022-07-27T19:01:01Z" duration-ms="6469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP007_Anadir_Carrito -->
+      </class> <!-- tests.Tests7 -->
+      <class name="tests.Tests6">
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.Tests6@6caf0677]" started-at="2022-07-27T19:00:44Z" name="preTests" finished-at="2022-07-27T19:00:45Z" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP006_Vaciar_Carrito()[pri:0, instance:tests.Tests6@6caf0677]" started-at="2022-07-27T19:00:45Z" name="CP006_Vaciar_Carrito" finished-at="2022-07-27T19:00:53Z" duration-ms="8659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP006_Vaciar_Carrito -->
+      </class> <!-- tests.Tests6 -->
+      <class name="tests.Tests5">
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.Tests5@645aa696]" started-at="2022-07-27T19:00:36Z" name="preTests" finished-at="2022-07-27T19:00:38Z" duration-ms="1994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP005_Correo_Registrado()[pri:0, instance:tests.Tests5@645aa696]" started-at="2022-07-27T19:00:38Z" name="CP005_Correo_Registrado" finished-at="2022-07-27T19:00:44Z" duration-ms="6359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP005_Correo_Registrado -->
+      </class> <!-- tests.Tests5 -->
+      <class name="tests.Tests4">
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.Tests4@5b218417]" started-at="2022-07-27T19:00:35Z" name="preTests" finished-at="2022-07-27T19:00:36Z" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP004_Creacion_Cuenta()[pri:0, instance:tests.Tests4@5b218417]" started-at="2022-07-27T19:00:36Z" name="CP004_Creacion_Cuenta" finished-at="2022-07-27T19:00:36Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP004_Creacion_Cuenta -->
+      </class> <!-- tests.Tests4 -->
+      <class name="tests.Tests">
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.Tests@5e2c3d18]" started-at="2022-07-27T19:00:07Z" name="preparacionEjecucion" finished-at="2022-07-27T19:00:08Z" duration-ms="1042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.Tests3@cc43f62]" started-at="2022-07-27T19:00:08Z" name="preparacionEjecucion" finished-at="2022-07-27T19:00:08Z" duration-ms="666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.Tests2@2cb4893b]" started-at="2022-07-27T19:00:08Z" name="preparacionEjecucion" finished-at="2022-07-27T19:00:08Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.Tests4@5b218417]" started-at="2022-07-27T19:00:08Z" name="preparacionEjecucion" finished-at="2022-07-27T19:00:09Z" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.Tests5@645aa696]" started-at="2022-07-27T19:00:09Z" name="preparacionEjecucion" finished-at="2022-07-27T19:00:10Z" duration-ms="722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.Tests6@6caf0677]" started-at="2022-07-27T19:00:10Z" name="preparacionEjecucion" finished-at="2022-07-27T19:00:11Z" duration-ms="771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.Tests7@413d1baf]" started-at="2022-07-27T19:00:11Z" name="preparacionEjecucion" finished-at="2022-07-27T19:00:11Z" duration-ms="720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preparacionEjecucion()[pri:0, instance:tests.Tests8@16eb3ea3]" started-at="2022-07-27T19:00:11Z" name="preparacionEjecucion" finished-at="2022-07-27T19:00:12Z" duration-ms="755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparacionEjecucion -->
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.Tests@5e2c3d18]" started-at="2022-07-27T19:00:12Z" name="preTests" finished-at="2022-07-27T19:00:13Z" duration-ms="1245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP001_Login_Fallido()[pri:0, instance:tests.Tests@5e2c3d18]" started-at="2022-07-27T19:00:13Z" name="CP001_Login_Fallido" finished-at="2022-07-27T19:00:19Z" duration-ms="6043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP001_Login_Fallido -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.Tests@5e2c3d18]" started-at="2022-07-27T19:01:10Z" name="posEjecucion" finished-at="2022-07-27T19:01:10Z" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.Tests3@cc43f62]" started-at="2022-07-27T19:01:10Z" name="posEjecucion" finished-at="2022-07-27T19:01:10Z" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.Tests4@5b218417]" started-at="2022-07-27T19:01:10Z" name="posEjecucion" finished-at="2022-07-27T19:01:10Z" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.Tests5@645aa696]" started-at="2022-07-27T19:01:10Z" name="posEjecucion" finished-at="2022-07-27T19:01:10Z" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.Tests6@6caf0677]" started-at="2022-07-27T19:01:10Z" name="posEjecucion" finished-at="2022-07-27T19:01:10Z" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.Tests7@413d1baf]" started-at="2022-07-27T19:01:10Z" name="posEjecucion" finished-at="2022-07-27T19:01:10Z" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+        <test-method is-config="true" signature="posEjecucion()[pri:0, instance:tests.Tests8@16eb3ea3]" started-at="2022-07-27T19:01:10Z" name="posEjecucion" finished-at="2022-07-27T19:01:10Z" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posEjecucion -->
+      </class> <!-- tests.Tests -->
+      <class name="tests.Tests8">
+        <test-method is-config="true" signature="preTests()[pri:0, instance:tests.Tests8@16eb3ea3]" started-at="2022-07-27T19:01:01Z" name="preTests" finished-at="2022-07-27T19:01:02Z" duration-ms="1218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTests -->
+        <test-method signature="CP008_Venta()[pri:0, instance:tests.Tests8@16eb3ea3]" started-at="2022-07-27T19:01:02Z" name="CP008_Venta" finished-at="2022-07-27T19:01:10Z" duration-ms="7430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CP008_Venta -->
+      </class> <!-- tests.Tests8 -->
+    </test> <!-- Casos de prueba -->
+  </suite> <!-- Suite pruebas de regresión -->
+</testng-results>
